@@ -8,7 +8,7 @@ Computer Science Lecturer, Trainer, Web Developer, API Developer, Peformance Arc
 
 Worked across globe - USA, UK, Canada, Belgium, Czech Republic. Ex IBMer, Ex Wiproite, Ex ITC Infotech, Ex Sapient.
 
-Domain Expertize - Telecom, BFSI, Retail, Logistic, Hotel, Publishing, Education
+Domain Expertize - Telecom, BFSI, Retail, Logistic, Hotel, Publishing, Education, Government
 
 Technology Expertize: Java, Python, Nodejs, Docker, Kubernetes, API Gateway, AI, Data Science, Data Analytics, Data Warehouse, Data Lake, HTML5, CSS3, JavaScript
 
