@@ -1,4 +1,6 @@
-# Know me: 1997 Master of Computer Applications, since 1997 crafting in the area of Computer and IT applications and services.
+# Know me
+
+1997 - Master of Computer Applications, since 1997 crafting in the area of Computer and IT applications and services.
 
 Bloomed at village, educated in metro city, Maths and Science Graduate, Master in Computer Applications, Master in Technoloy, Certified Professional Architect in AWS, Azure and IBM Cloud, Certified Scrum Master.
 
