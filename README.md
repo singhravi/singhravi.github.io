@@ -1,4 +1,5 @@
-#Know me
+# Know me
+
 Ravi Shankar Singh bloomed at village, educated in metro city, Maths and Science Graduate, Master in Computer Applications, Master in Technoloy, Certified Professional Architect in AWS, Azure and IBM Cloud, Certified Scrum Master.
 
 Computer Science Lecturer, Trainer, Web Developer, API Developer, Peformance Architect, Application Architect, Solution Architect, Director Software Engineering, Head of IT Dept.
